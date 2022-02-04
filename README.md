@@ -1,7 +1,7 @@
 <div style="display: block" align="center">
-  <h2>
+  <h3>
     i'm Luiz Felipe
-  </h2>
+  </h3>
   <img height="280px" width="380px" src="https://cdn.discordapp.com/attachments/916096730712391730/939013127939457024/gifpick.gif"/>
   <p>🤖 Front-end Developer</p>
   <p>📖 Studying front-end frameworks and languages</p>
@@ -10,7 +10,7 @@
  ##
  
  <div style="display: block" align="center">
-  <h3>ABOUT</h3>
+  <h4>ABOUT</h4>
  </div>
 
 
