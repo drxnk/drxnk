@@ -5,6 +5,7 @@
   <img height="280px" width="380px" src="https://cdn.discordapp.com/attachments/916096730712391730/939013127939457024/gifpick.gif"/>
   <p>🤖 Front-end Developer</p>
   <p>📖 Studying front-end frameworks and languages</p>
+  <h1></h1>
  </div>
 
 
