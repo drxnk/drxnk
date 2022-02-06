@@ -1,8 +1,8 @@
 <div style="display: block" align="center">
+  <img height="100px" width="400px" src="https://cdn.discordapp.com/attachments/916096730712391730/939733018547990548/gif.gif"/>
   <h3>
     i'm Luiz Felipe
   </h3>
-  <img height="280px" width="380px" src="https://cdn.discordapp.com/attachments/916096730712391730/939013127939457024/gifpick.gif"/>
   <p>🤖 Front-end Developer</p>
   <p>📖 Studying front-end frameworks and languages</p>
  </div>
