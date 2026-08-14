@@ -1,10 +1,10 @@
 <h1 align="center">Hey<br>your welcome<br>👋</h1>
 
 ###
-<p align="center">🙋‍♂️ I'm Luiz Felipe</p>
+<p align="center">🙋‍♂️ my name is Luiz Felipe</p>
 
 ###
-<p align="center">💻 Frontend Developer</p>
+<p align="center">💻 Fullstack Developer & Software Engineer Graduated</p>
 
 ###
 <div align="center">
