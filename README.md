@@ -4,7 +4,7 @@
 <p align="center">🙋‍♂️ my name is Luiz Felipe</p>
 
 ###
-<p align="center">💻 Fullstack Developer & Software Engineer Graduated</p>
+<p align="center">💻 Fullstack Developer & Software Engineer</p>
 
 ###
 <div align="center">
